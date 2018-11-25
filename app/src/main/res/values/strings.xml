@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task308</string>
+    <string name="start_downloading_my_file">Start Downloading my File</string>
+    <string name="display_all_downloads">Display all Downloads</string>
+    <string name="check_status_of_download">Check Status of Download</string>
+    <string name="cancel_the_current_download">Cancel the current Download</string>
+</resources>
